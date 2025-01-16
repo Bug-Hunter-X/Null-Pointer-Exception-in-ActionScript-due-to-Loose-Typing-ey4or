@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript bug related to null pointer exceptions caused by loose typing and incomplete null checks. The `bug.as` file contains code with a flawed null check, leading to a potential exception. The `bugSolution.as` file provides a corrected version with more robust null handling.
